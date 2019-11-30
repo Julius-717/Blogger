@@ -24,3 +24,20 @@ You will need to:
 -   Have python installed
 -   Have a terminal to interact with the app.
 -   Any text editor preferably pycharm or vs-code.
+
+Installation
+========
+
+    $ git clone <repository_url>
+
+
+Build & Deployment
+========
+
+**NOTE:** You need to have fully cloned it to run it locally.
+
+
+    $ python app.py 
+
+    # it will launch the web page from local server and fetch 
+    blog articles on database provided
