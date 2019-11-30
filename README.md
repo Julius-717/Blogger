@@ -41,3 +41,10 @@ Build & Deployment
 
     # it will launch the web page from local server and fetch 
     blog articles on database provided
+
+## BUILT WITH
+- Python3.6
+- Flask
+- Bootstrap
+- CSS
+- sqlite3
