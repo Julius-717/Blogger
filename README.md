@@ -48,3 +48,8 @@ Build & Deployment
 - Bootstrap
 - CSS
 - sqlite3
+
+Contribute
+========
+
+If you want to add any new features, or improve existing ones, feel free to send a pull request!
